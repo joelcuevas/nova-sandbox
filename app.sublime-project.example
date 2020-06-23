@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+            "folder_exclude_patterns": [
+                ".circleci",
+                "node_modules",
+                "storage"
+            ],
+            "file_exclude_patterns": [
+                "composer.lock",
+            ],
+		}
+	]
+}
